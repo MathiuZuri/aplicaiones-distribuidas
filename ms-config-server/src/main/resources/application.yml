@@ -11,6 +11,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/MathiuZuri/aplicaiones-distribuidas # ruta del repositorio git
+          uri: https://github.com/MathiuZuri/aplicaiones-distribuidas.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
