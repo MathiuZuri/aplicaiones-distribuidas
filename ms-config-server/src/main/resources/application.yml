@@ -10,6 +10,8 @@ spring:
       server:
         git:
           uri: https://github.com/MathiuZuri/aplicaiones-distribuidas.git # ruta del repositorio git
+          username: NachyZuri
+          password: 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
           searchPaths: config-data
           default-label: main
   security:
